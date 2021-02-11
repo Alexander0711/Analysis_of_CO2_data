@@ -26,7 +26,7 @@ The following librairies are used for this project in a Jupyter notebook:
 
 - Can the CO2 emissions of the vehicle be predicted with the consumption information given when purchasing the vehicle?
 - Can we compare the actual emission of the vehicles in Canada in regards to the manufacturer’s information at point of sales in Germany ?
-- To what extent can we trust the manufacturer’s information on CO2 emissions
+- To what extent can we trust the manufacturer’s information on CO2 emissions?
 
 
 
